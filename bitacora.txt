@@ -1,0 +1,5 @@
+4.URL completa pagina Rueda Libre: file://wsl.localhost/Ubuntu/home/merca/Rueda-libre/index.html
+5. Escribe en la barra de direcciones una ruta que no exista y registra el código que responde el servidor y qué significa.
+404 Not Found, indica la ruta que se intenta buscar no fue encontrada.
+6. El rol que cumplira HTML es la estructura, que es el esqueleto de la pagina, CSS se encargara del diseño de la pagina(color,imagenes,entre otros)
+y JavaScript tendra el rol de ser el motor de la pagina, encargandose que todo funcione.
